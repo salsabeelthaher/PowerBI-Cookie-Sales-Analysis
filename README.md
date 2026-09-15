@@ -8,9 +8,7 @@ The report uses calculated measures and data visualization techniques to transfo
 ---
 
 ## Dashboard Preview
-
-![Dashboard]("C:\Users\salsa\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-09-13 203601.png")
-
+![Dashboard](dashboard.png)
 ---
 
 ## Project Objectives
